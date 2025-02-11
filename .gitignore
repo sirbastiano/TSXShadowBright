@@ -1,0 +1,37 @@
+/Data
+/lightning_logs
+
+*.pth
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Configuration files
+*.log
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
